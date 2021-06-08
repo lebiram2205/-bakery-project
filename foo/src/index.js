@@ -1,0 +1,1 @@
+console.log("hola mundo sin configurar con webpack")
