@@ -1,1 +1,0 @@
-(()=>{"use strict";var o;console.log("hola mundo sin configurar con webpack"),(o=console).log.apply(o,[1,2,3])})();
